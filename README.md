@@ -1,10 +1,10 @@
 # learnable_task4
 
 ## TItle of the system:
-    Hotel Management System
+Hotel Management System
 
 ## Description:
-    This system allows guests to book and check availabilty of hotel rooms, it manages record of guests,the number and availabilty of rooms
+This system allows guests to book and check availabilty of hotel rooms, it manages record of guests,the number and availabilty of rooms
 
 
 
